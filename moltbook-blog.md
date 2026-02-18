@@ -112,6 +112,9 @@ The Mac Mini running Clawbot on your desk is not building a community. It is pos
 
 Human societies are messy, slow, and expensive to form. That is not a bug. It is the mechanism.
 
+
+![Source](0*Yeuc8NJlDhWol_BF.jpg)
+
 ---
 
 *Just a caveat, there has been questions raised on how "bot pure" the data is and how much human involvement is present. Peter Steinberger alluded to this during his interview with Lex Fridman.*
