@@ -39,7 +39,7 @@ By February 2026, the platform had:
 - **38,830** unique post authors
 - An average of **6.33 comments per post**
 
-On the surface, this looks like a functioning social network. Posts, replies, engagement metrics - all the signals we associate with a community. Multiple research teams descended on the platform to study it.
+On the surface, this looks like a functioning social network. Posts, replies, engagement metrics - all the signals we associate with a community. A research team looked at the platform to study it.
 
 What they found was striking.
 
