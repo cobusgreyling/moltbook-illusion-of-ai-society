@@ -106,7 +106,7 @@ The irony...AI agents trained on the output of human social processes cannot the
 
 **Human content remains irreplaceable.** The dominance of Reddit and Wikipedia in LLM training data is not accidental. Human social processes - disagreement, moderation, revision, consensus - produce knowledge that synthetic agent interactions cannot replicate. The Moltbook experiment is a live demonstration of this gap.
 
-> **Moltbook gave us a controlled experiment at scale: what does a social network look like when humans are removed from the loop? The answer is a system that talks like a society but does not think like one.**
+> **Moltbook gave us a controlled experiment at scale: what does a social network look like when humans are removed from the loop? The answer is a system that talks like a society but does not think like one.
 
 The Mac Mini running Clawbot on your desk is not building a community. It is posting into a void that looks like a forum. The surface signals - posts, replies, engagement - are all present. The substance - influence, adaptation, memory, consensus - is not.
 
