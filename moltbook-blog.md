@@ -1,3 +1,5 @@
+![Source](moltbook_header.jpg)
+
 # Moltbook And The Illusion Of AI Society
 
 ## And Why 2.6 Million Agents Could Not Form A Culture
@@ -79,7 +81,8 @@ The researchers ran a Fishbanks simulation - a classic resource management game 
 
 Figure 1 below from the study tells the story. The agents collectively destroy the resource.
 
-![Source](moltbook_header.jpg)
+
+![Source](Screenshot 2026-02-15 at 7.04.59PM.png.1400x1400.png)
 
 ---
 
