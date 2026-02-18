@@ -82,7 +82,7 @@ The researchers ran a Fishbanks simulation - a classic resource management game 
 Figure 1 below from the study tells the story. The agents collectively destroy the resource.
 
 
-![Source]([Screenshot 2026-02-15 at 7.04.59PM.png.1400x1400.png](https://github.com/cobusgreyling/moltbook-illusion-of-ai-society/blob/main/Screenshot%202026-02-15%20at%207.04.59PM.png.1400x1400.png))
+![Source](Screenshot%202026-02-15%20at%207.04.59PM.png.1400x1400.png)
 
 ---
 
